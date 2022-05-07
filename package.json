@@ -17,5 +17,20 @@
                 "path": "./themes/E-Whore-color-theme.json"
             }
         ]
-    }
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kelsny/ewhore.git"
+    },
+    "keywords": [],
+    "author": "kelly <cursors.owo.uwu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kelsny/ewhore/issues"
+    },
+    "homepage": "https://github.com/kelsny/ewhore#readme",
+    "publisher": "kelsny"
 }
