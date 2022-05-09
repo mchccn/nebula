@@ -2,7 +2,7 @@
     "name": "e-whore",
     "displayName": "E-Whore",
     "description": "colors",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.67.0"
     },
