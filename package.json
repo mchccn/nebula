@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "https://github.com/kelsny/neblua/raw/master/icons/nebula.png",
     "contributes": {
         "themes": [
             {
