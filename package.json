@@ -1,5 +1,5 @@
 {
-    "name": "nebula",
+    "name": "nebsies",
     "displayName": "Nebula",
     "description": "Float away in space with a beautiful purple and blue oriented color theme.",
     "version": "0.0.5",
@@ -9,7 +9,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://github.com/kelsny/neblua/raw/master/icons/nebula.png",
+    "icon": "icons/nebula.png",
     "contributes": {
         "themes": [
             {

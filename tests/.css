@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p {
+    color: red;
+    font-size: Helvetica, sans-serif;
+}
+
+img.scaled {
+    scale: 0.1;
+}
+
+#id {
+    color: #ff0000;
+}
+
+body:hover > .nested {
+    background: hsl(0, 0%, 50%);
+}
+
+@media screen and (max-width: 600px) {
+    p {
+        color: #00ff00;
+    }
+}
+
+@keyframes anim {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes anotherone {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
