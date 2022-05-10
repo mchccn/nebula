@@ -9,6 +9,8 @@ struct MyStruct {
     unsigned long reallyBigNumber;
 };
 
+// this is all i remember of cpp
+
 class MyClass {
     public:
         string name;
