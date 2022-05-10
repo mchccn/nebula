@@ -11,4 +11,5 @@
 -   Markdown
 -   Python
 -   Svelte/Vue
--   C++
+-   C/C++
+-   Rust
