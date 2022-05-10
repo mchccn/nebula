@@ -22,7 +22,7 @@ def then(args):
     return args
 
 if 0 == 0:
-    then(that);
+    then(that)
 else:
     for i in range(0, 10):
         pass

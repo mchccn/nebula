@@ -1,8 +1,8 @@
 {
-    "name": "e-whore",
-    "displayName": "E-Whore",
-    "description": "colors",
-    "version": "0.0.4",
+    "name": "nebula",
+    "displayName": "Nebula",
+    "description": "Float away in space with a beautiful purple and blue oriented color theme.",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "E-Whore",
+                "label": "Nebula",
                 "uiTheme": "vs-dark",
-                "path": "./themes/E-Whore-color-theme.json"
+                "path": "./themes/Nebula-color-theme.json"
             }
         ]
     },
@@ -23,14 +23,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kelsny/ewhore.git"
+        "url": "git+https://github.com/kelsny/nebula.git"
     },
     "keywords": [],
     "author": "kelly <cursors.owo.uwu@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/kelsny/ewhore/issues"
+        "url": "https://github.com/kelsny/nebula/issues"
     },
-    "homepage": "https://github.com/kelsny/ewhore#readme",
+    "homepage": "https://github.com/kelsny/nebula#readme",
     "publisher": "kelsny"
 }
