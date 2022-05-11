@@ -32,6 +32,10 @@ fn main() {
         _ => println!("other"),
     }
 
+    fn inner(refer: &mut String) -> &mut String {
+        return refer;
+    }
+
     let mut y = 2;
 
     for i in 0..10 {
