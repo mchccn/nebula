@@ -4,6 +4,12 @@ All notable changes to the "nebsies" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.0.8
+
+-   Vastly improved UI styles
+-   Notifications styled now
+-   Quick input styled now
+
 ## v0.0.7
 
 -   Added colors for Java
