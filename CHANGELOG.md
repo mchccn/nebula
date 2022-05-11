@@ -11,6 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 -   Bash highlighting tested
 -   Styled peek view
 -   Subtle editor style changes
+-   Edited terminal ANSI colors
 
 ## v0.0.8
 
