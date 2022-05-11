@@ -4,6 +4,11 @@ All notable changes to the "nebsies" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.0.11
+
+-   No notable overall theme changes
+-   Improved README.md with previews and a small description
+
 ## v0.0.10
 
 -   Improved Java/C#/C++ styles-
