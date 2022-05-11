@@ -10,6 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 -   Better C# highlighting added
 -   Bash highlighting tested
 -   Styled peek view
+-   Subtle editor style changes
 
 ## v0.0.8
 
