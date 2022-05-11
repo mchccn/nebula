@@ -144,6 +144,7 @@
         "terminalCursor.foreground": "#c1c1c1",
         "textBlockQuote.background": "#1d1d20",
         "textBlockQuote.border": "#7d79f4",
+        "textLink.activeForeground": "#c293ff",
         "textLink.foreground": "#b281f2",
         "titleBar.activeBackground": "#181818",
         "titleBar.activeForeground": "#d9d9fc",
@@ -560,7 +561,6 @@
         //"testing.peekHeaderBackground": "#f14c4c1a",
         //"testing.runAction": "#73c991",
         //"textCodeBlock.background": "#0a0a0a66",
-        //"textLink.activeForeground": "#3794ff",
         //"textPreformat.foreground": "#d7ba7d",
         //"textSeparator.foreground": "#ffffff2e",
         //"titleBar.inactiveBackground": "#18181899",
@@ -1753,6 +1753,34 @@
             }
         },
         {
+            "scope": ["keyword.other.import.java", "keyword.other.package.java"],
+            "settings": {
+                "foreground": "#757BFF",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["punctuation.definition.annotation.java"],
+            "settings": {
+                "foreground": "#A381FF",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["storage.type.annotation.java"],
+            "settings": {
+                "foreground": "#70A2FF",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["constant.other.key.java"],
+            "settings": {
+                "foreground": "#58CAFF",
+                "fontStyle": ""
+            }
+        },
+        {
             "scope": ["storage.modifier.import.java"],
             "settings": {
                 "foreground": "#7F98F1",
@@ -1778,6 +1806,19 @@
             "settings": {
                 "foreground": "#81BCFF",
                 "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["storage.modifier.package.java"],
+            "settings": {
+                "foreground": "#AE7FFF",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["keyword.other.documentation.javadoc.java"],
+            "settings": {
+                "foreground": "#BB7EFD"
             }
         },
         {
@@ -1812,6 +1853,39 @@
             "scope": ["keyword.function.go", "keyword.import.go", "keyword.const.go", "keyword.var.go", "keyword.interface.go", "keyword.struct.go"],
             "settings": {
                 "foreground": "#838DFF",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["keyword.other.using.directive.cpp"],
+            "settings": {
+                "foreground": "#838DFF",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["punctuation.separator.pointer-access.cpp"],
+            "settings": {
+                "foreground": "#8D93D4",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": [
+                "punctuation.section.parameters.begin.bracket.round",
+                "punctuation.section.parameters.end.bracket.round",
+                "punctuation.definition.begin.bracket.square",
+                "punctuation.definition.end.bracket.square"
+            ],
+            "settings": {
+                "foreground": "#C387F4",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": ["punctuation.section.block.begin.bracket.curly", "punctuation.section.block.end.bracket.curly"],
+            "settings": {
+                "foreground": "#B59DC2",
                 "fontStyle": ""
             }
         },
