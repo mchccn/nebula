@@ -2,7 +2,7 @@
     "name": "nebsies",
     "displayName": "Nebula",
     "description": "Float away in space with a beautiful purple and blue oriented color theme.",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "engines": {
         "vscode": "^1.67.0"
     },
