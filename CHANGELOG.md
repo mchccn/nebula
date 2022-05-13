@@ -4,6 +4,12 @@ All notable changes to the "nebsies" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.0.12
+
+-   Regex character class color
+-   Current line in editor slightly highlighted
+-   Changed theme label to Nebula Dark+
+
 ## v0.0.11
 
 -   No notable overall theme changes

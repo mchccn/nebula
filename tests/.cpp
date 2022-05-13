@@ -29,7 +29,7 @@ class MyClass {
 };
 
 int main() {
-    char hello[5] = { 'h', 'e', 'l', 'l', 'o' };
+    char hello[6] = { 'h', 'e', 'l', 'l', 'o', '\0' };
 
     const short theAnswer = 42;
 

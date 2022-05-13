@@ -13,6 +13,7 @@ pub enum ValueType {
     ValueNull(),
 }
 
+#[derive(Debug)]
 pub struct Filter {
     pub column: String,
     pub comparison: ComparisonType,
