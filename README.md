@@ -36,9 +36,12 @@ Originally designed for web languages, but works well with others.
 
 -   JavaScript/TypeScript (including JSX/TSX)
 -   HTML/CSS (as well as style/script tags)
+-   Svelte/Vue
 -   Markdown
 -   Python
--   Svelte/Vue
 -   C/C++
 -   Rust
--   Java/C#
+-   Java
+-   C#
+-   Ruby
+-   Go
