@@ -13,10 +13,10 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nebula Dark+",
+                "label": "Nebula",
                 "id": "kelsny.nebsies.nebula",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nebula-Dark-color-theme.json"
+                "path": "./themes/Nebula-color-theme.json"
             }
         ]
     },

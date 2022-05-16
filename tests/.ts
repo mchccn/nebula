@@ -15,6 +15,9 @@ class MyClass {
 
 console.log(true);
 
+/**
+ * @prop {}
+ */
 const that = {
     foo: Infinity,
     bar: undefined,
