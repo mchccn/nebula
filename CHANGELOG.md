@@ -4,6 +4,15 @@ All notable changes to the "nebsies" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.1.1
+
+- Monkey-patched missing styles
+
+## v0.1.0
+
+- Relabeled to Nebula+
+- Added Nebula variant
+
 ## v0.0.12
 
 -   Regex character class color
