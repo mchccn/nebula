@@ -2,7 +2,7 @@
     "name": "nebsies",
     "displayName": "Nebula",
     "description": "Float away in space with a beautiful purple and blue oriented color theme.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -13,16 +13,22 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nebula+",
+                "label": "Nebula Original",
                 "id": "kelsny.nebsies.nebula-plus",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nebula-Plus-color-theme.json"
+                "path": "./themes/Nebula-Original-color-theme.json"
             },
             {
-                "label": "Nebula",
+                "label": "Nebula Simple",
                 "id": "kelsny.nebsies.nebula",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nebula-color-theme.json"
+                "path": "./themes/Nebula-Simple-color-theme.json"
+            },
+            {
+                "label": "Nebula Inferno",
+                "id": "kelsny.nebsies.nebula-inferno",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nebula-Inferno-color-theme.json"
             }
         ]
     },

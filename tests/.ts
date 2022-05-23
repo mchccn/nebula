@@ -4,14 +4,16 @@ const decorator: ClassDecorator = (target) => target;
 
 @decorator
 class MyClass {
-    property = 0;
+    protected property = 0;
 
     constructor() {}
 
-    method() {
-        return "foo";
+    public method() {
+        return "foo\0\n";
     }
 }
+
+/^[abcA-Z]?\n{}+|(?=asd)(?:)(?!)$/;
 
 console.log(true);
 

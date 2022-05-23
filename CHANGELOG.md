@@ -4,14 +4,22 @@ All notable changes to the "nebsies" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.1.2
+
+-   Make TSX/JSX actually work
+-   Fiddled with YAML styles
+-   Patched regex colors
+-   Enum members and constants highlighted
+-   New inferno theme variant
+
 ## v0.1.1
 
-- Monkey-patched missing styles
+-   Monkey-patched missing styles
 
 ## v0.1.0
 
-- Relabeled to Nebula+
-- Added Nebula variant
+-   Relabeled to Nebula+
+-   Added Nebula variant
 
 ## v0.0.12
 

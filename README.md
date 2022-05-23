@@ -10,12 +10,13 @@ Originally designed for web languages, but works well with others.
 
 ### Variants
 
-| Label   | Description                                                                                            |
-| ------- | ------------------------------------------------------------------------------------------------------ |
-| Nebula+ | Original Nebula theme with a variety of colors. Vibrant and higher contrast.                           |
-| Nebula  | Simplified version of Nebula+ with only a handful of colors. Lower contrast compared to other variants |
+| Label           | Description                                                                      |
+| --------------- | -------------------------------------------------------------------------------- |
+| Nebula Original | Original Nebula theme with a variety of colors. Vibrant and higher contrast.     |
+| Nebula Simple   | Simplified version of Nebula+ with only a handful of colors with lower contrast. |
+| Nebula Inferno  | An eye-popping variation centered on red and pink instead of blue and purple.    |
 
-### Preview (Nebula variant)
+### Preview (Nebula Simple variant) [v0.1.0]
 
 **You can preview this theme live in the browser [here](https://vscode.dev/theme/kelsny.nebsies) before installing it.**
 
@@ -45,7 +46,7 @@ Originally designed for web languages, but works well with others.
 -   `😃` HTML/CSS (as well as style/script tags)
 -   `😃` Markdown
 -   `🙂` Svelte/Vue
--   `🙂` XML
+-   `🙂` XML/YAML
 -   `🙂` Python
 -   `🙂` C/C++
 -   `🙂` Rust
