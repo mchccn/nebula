@@ -1334,7 +1334,7 @@
             }
         },
         {
-            "scope": ["support.variable"],
+            "scope": [ "support.constant","support.variable"],
             "settings": {
                 "foreground": "#A98AFF",
                 "fontStyle": ""
@@ -1511,6 +1511,7 @@
         {
             "scope": [
                 "text.html.derivative",
+                "text.html.markdown",
                 "text.svelte",
                 "meta.template.svelte",
                 "text.html.vue-html",
@@ -1593,7 +1594,7 @@
             }
         },
         {
-            "scope": ["keyword.other.unit"],
+            "scope": ["keyword.other.unit", "punctuation.definition.quote.begin.markdown"],
             "settings": {
                 "foreground": "#EB8ABE",
                 "fontStyle": ""
@@ -1793,7 +1794,7 @@
             }
         },
         {
-            "scope": ["meta.separator.markdown"],
+            "scope": ["punctuation.definition.quote.begin.markdown", "meta.separator.markdown"],
             "settings": {
                 "foreground": "#A06BF5",
                 "fontStyle": "bold"

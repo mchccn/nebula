@@ -16,7 +16,7 @@ Originally designed for web languages, but works well with others.
 | Nebula Simple   | Simplified version of Nebula+ with only a handful of colors with lower contrast. |
 | Nebula Inferno  | An eye-popping variation centered on red and pink instead of blue and purple.    |
 
-### Preview (Nebula Simple variant) [v0.1.0]
+### Preview (Nebula Simple variant) [v0.1.2]
 
 **You can preview this theme live in the browser [here](https://vscode.dev/theme/kelsny.nebsies) before installing it.**
 
